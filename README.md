@@ -1,4 +1,4 @@
-# Notify Plugin in Vanilla JavaScript
+# Notify Project in Vanilla JavaScript
 
 Hi! This is plugin to showing information in Notify clouds. There are few types of notifications like info notification, error notification or success notification.
 
